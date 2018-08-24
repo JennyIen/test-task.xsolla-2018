@@ -34,7 +34,7 @@
 **Серверная интеграция** – интеграция и взаимодействие с Xsolla, которая работает через специально настроенный сервер;  
 **Упрощённая интеграция** –  интеграция и взаимодействие с Xsolla, которая работает через клиент; сервер игры отсутствует;  
 **Header** – блок в верхней части страницы, который виден на всех страницах магазина. Включает в себя, как правило, логотип, меню, контакты, переключатель языков или корзину, а также пункты навигационного меню;  
-**Footer** – блок в нижней части страницы, который виден на всех страницах магазина. Содержит полезную, но не первостепенную информацию;
+**Footer** – блок в нижней части страницы, который виден на всех страницах магазина. Содержит полезную, но не первостепенную информацию.
 
 
 **Перевод**
@@ -45,8 +45,8 @@ We need to create SDK-library, which implements the functional of the store on t
 
 
 Creation goals of SDK:  
-Simplify of using Xsolla payment solution for developers of alternative platforms;  
-Decrease the input threshold for using product on a specific platform.  
+- Simplify of using Xsolla payment solution for developers of alternative platforms;  
+- Decrease the input threshold for using product on a specific platform.  
 ## Appointment of the library
 ### Exploitation appointment
 - Provide for developers comfortable instrument to reduce labor expenditures for implementing billig solution of Xsolla;
