@@ -1,4 +1,4 @@
-**_Задание 1_**: *Вычитайте, структурируйте и доработайте текст [https://docs.google.com/document/d/1920kvJxC5DQa3xO3XeJhg8tYh1-FPoKFfd5xuiTBruE/edit#](https://docs.google.com/document/d/1920kvJxC5DQa3xO3XeJhg8tYh1-FPoKFfd5xuiTBruE/edit#). Если исходный текст, на ваш взгляд, не содержит какую-либо необходимую информацию:   
+**_Задание 1_**: *Вычитайте, структурируйте и доработайте текст [https://docs.google.com/document/d/1920kvJxC5DQa3xO3XeJhg8tYh1-FPoKFfd5xuiTBruE/edit#](https://docs.google.com/document/d/1920kvJxC5DQa3xO3XeJhg8tYh1-FPoKFfd5xuiTBruE/edit#).  Если исходный текст, на ваш взгляд, не содержит какую-либо необходимую информацию:   
 a) укажите, чем надо дополнить исходный текст  
 б) приведите пример оформления предполагаемого дополнения.  
 *Для выполнения задания скопируйте текст и высылайте уже исправленный вариант. Правки к исходному тексту предлагать не надо.*
